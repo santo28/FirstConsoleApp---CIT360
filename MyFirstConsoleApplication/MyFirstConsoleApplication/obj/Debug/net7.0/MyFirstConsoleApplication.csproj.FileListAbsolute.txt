@@ -1,0 +1,15 @@
+/Users/marvinsantos/Documents/NET-Framework/FirstConsoleApp---CIT360/MyFirstConsoleApplication/MyFirstConsoleApplication/bin/Debug/net7.0/MyFirstConsoleApplication
+/Users/marvinsantos/Documents/NET-Framework/FirstConsoleApp---CIT360/MyFirstConsoleApplication/MyFirstConsoleApplication/bin/Debug/net7.0/MyFirstConsoleApplication.deps.json
+/Users/marvinsantos/Documents/NET-Framework/FirstConsoleApp---CIT360/MyFirstConsoleApplication/MyFirstConsoleApplication/bin/Debug/net7.0/MyFirstConsoleApplication.runtimeconfig.json
+/Users/marvinsantos/Documents/NET-Framework/FirstConsoleApp---CIT360/MyFirstConsoleApplication/MyFirstConsoleApplication/bin/Debug/net7.0/MyFirstConsoleApplication.dll
+/Users/marvinsantos/Documents/NET-Framework/FirstConsoleApp---CIT360/MyFirstConsoleApplication/MyFirstConsoleApplication/bin/Debug/net7.0/MyFirstConsoleApplication.pdb
+/Users/marvinsantos/Documents/NET-Framework/FirstConsoleApp---CIT360/MyFirstConsoleApplication/MyFirstConsoleApplication/obj/Debug/net7.0/MyFirstConsoleApplication.csproj.AssemblyReference.cache
+/Users/marvinsantos/Documents/NET-Framework/FirstConsoleApp---CIT360/MyFirstConsoleApplication/MyFirstConsoleApplication/obj/Debug/net7.0/MyFirstConsoleApplication.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marvinsantos/Documents/NET-Framework/FirstConsoleApp---CIT360/MyFirstConsoleApplication/MyFirstConsoleApplication/obj/Debug/net7.0/MyFirstConsoleApplication.AssemblyInfoInputs.cache
+/Users/marvinsantos/Documents/NET-Framework/FirstConsoleApp---CIT360/MyFirstConsoleApplication/MyFirstConsoleApplication/obj/Debug/net7.0/MyFirstConsoleApplication.AssemblyInfo.cs
+/Users/marvinsantos/Documents/NET-Framework/FirstConsoleApp---CIT360/MyFirstConsoleApplication/MyFirstConsoleApplication/obj/Debug/net7.0/MyFirstConsoleApplication.csproj.CoreCompileInputs.cache
+/Users/marvinsantos/Documents/NET-Framework/FirstConsoleApp---CIT360/MyFirstConsoleApplication/MyFirstConsoleApplication/obj/Debug/net7.0/MyFirstConsoleApplication.dll
+/Users/marvinsantos/Documents/NET-Framework/FirstConsoleApp---CIT360/MyFirstConsoleApplication/MyFirstConsoleApplication/obj/Debug/net7.0/refint/MyFirstConsoleApplication.dll
+/Users/marvinsantos/Documents/NET-Framework/FirstConsoleApp---CIT360/MyFirstConsoleApplication/MyFirstConsoleApplication/obj/Debug/net7.0/MyFirstConsoleApplication.pdb
+/Users/marvinsantos/Documents/NET-Framework/FirstConsoleApp---CIT360/MyFirstConsoleApplication/MyFirstConsoleApplication/obj/Debug/net7.0/MyFirstConsoleApplication.genruntimeconfig.cache
+/Users/marvinsantos/Documents/NET-Framework/FirstConsoleApp---CIT360/MyFirstConsoleApplication/MyFirstConsoleApplication/obj/Debug/net7.0/ref/MyFirstConsoleApplication.dll

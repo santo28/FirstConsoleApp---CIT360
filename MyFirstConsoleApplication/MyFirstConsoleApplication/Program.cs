@@ -46,7 +46,7 @@ internal class Program
         Console.WriteLine("The area of the glass is " +
         glassArea + " square meters");
 
-        Console.WriteLine("To exit the program press any Key");
+        Console.WriteLine("To exit the program press any Key ");
         Console.ReadKey();
 
     }
